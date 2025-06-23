@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.move-image {
+  animation: moveUpDown 10s linear infinite;
+}
+
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
