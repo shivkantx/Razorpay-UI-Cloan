@@ -1,48 +1,28 @@
 # 💳 Razorpay UI Clone
 
-A fully responsive front-end clone of the Razorpay homepage built using **React** and **Tailwind CSS**. This project replicates the modern, animated, and performance-optimized design of Razorpay's official website.
+A fully responsive and visually accurate front-end clone of the [Razorpay](https://razorpay.com/) homepage. Built using **React**, **Vite**, and **Tailwind CSS**, this project replicates the clean, modern interface of Razorpay’s official website. Ideal for learning responsive UI, component-based design, and Tailwind CSS workflows.
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Modern UI Design** – Pixel-perfect layout inspired by Razorpay's official website  
-- 📱 **Responsive Layout** – Fully responsive across mobile, tablet, and desktop screens  
-- 💡 **Component-Based Architecture** – Built with modular and reusable React components  
-- 💨 **Tailwind CSS Styling** – Utility-first CSS framework for rapid and consistent styling  
-- 🔄 **Smooth Scroll & AOS Animations** – Scroll-triggered effects and transitions  
-- 🖼️ **Hero Section** – Eye-catching header with CTA and visuals  
-- 📦 **Feature Sections** – Core business highlights and payment features  
-- 🌐 **Join and Testimonial Sections** – Includes call-to-action and customer feedback UI  
-- 🦶 **Custom Footer** – Matches original Razorpay site styling
+- 🎨 **Modern UI Design** – Faithful replica of the original Razorpay homepage
+- 📱 **Fully Responsive** – Optimized for mobile, tablet, and desktop screens
+- 🧩 **Modular Component Structure** – All sections are separated into React components
+- 💨 **Tailwind CSS Utility Classes** – Fast and consistent styling throughout
+- 🖱️ **AOS Animations** – Smooth scroll-triggered transitions
+- 🖼️ **Local Assets** – All images and icons are stored in the `assets` folder
+- 🦶 **Custom Footer** – Styled to match Razorpay’s original design
+- 🌐 **Live Deployment** – Hosted via Netlify
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework:** React (Vite)  
-- **Styling:** Tailwind CSS  
-- **Icons & Assets:** React Icons, SVGs, and local images  
-- **Animation:** AOS (Animate on Scroll)
+- **Frontend Framework:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons / Lucide
+- **Animations:** AOS (Animate on Scroll)
+- **Font:** Mulish (Google Fonts)
+- **Deployment:** Netlify
 
----
-
-## 🔗 Live Demo
-
-[🔗 Click here to view the live site](https://razorpayclonewebsitee.netlify.app/)
-
----
-
-## 🧠 Purpose
-
-This clone was created to:
-
-- Practice advanced UI implementation using React and Tailwind  
-- Learn responsive design and animation techniques  
-- Enhance frontend development skills through real-world UI replication
-
----
-
-## 📬 Contact
-
-Created by [**Shiv Kant**](https://github.com/shivkantx) – open to feedback and collaboration!
